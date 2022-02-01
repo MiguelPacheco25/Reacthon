@@ -1,2 +1,0 @@
-# Reacthon
-Python and React
